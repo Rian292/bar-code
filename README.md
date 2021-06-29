@@ -1,6 +1,8 @@
-# bar-code
+# bar-code (Abra como RAW ou BLAME O readme.md que 
 
 O programa foi dividido em partes ordem, regiao e tipo. Para o arquivo integracao ser o principal, para colocar o código de barras, faltou adicionar algumas regras e condicionais para terminar o programa.
+
+DESAFIO 
 
 O leitor de código de barras da Loggi
 A Loggi está em constante expansão e precisa da sua ajuda para
