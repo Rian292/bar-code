@@ -1,4 +1,4 @@
-# bar-code (Abra como RAW ou BLAME O readme.md que 
+# bar-code (Abra como RAW ou BLAME O readme.md que a formatação estará correta)
 
 O programa foi dividido em partes ordem, regiao e tipo. Para o arquivo integracao ser o principal, para colocar o código de barras, faltou adicionar algumas regras e condicionais para terminar o programa.
 
